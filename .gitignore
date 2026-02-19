@@ -1,0 +1,36 @@
+# --- KiCad auto-generated ---
+*.kicad_prl
+*.kicad_pro-bak
+*-bak
+*-backup
+*-backups/
+*.zip
+
+# KiCad lock files
+*.lck
+
+# KiCad temporary files
+*.tmp
+*.000
+*.dcm
+
+# Footprint cache
+fp-info-cache
+
+# Autosave
+_autosave-*
+
+# Plot / fabrication outputs (if you regenerate)
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# VS Code (if used)
+.vscode/
+
+# Fusion / CAD cache
+*.f3d.lock
+
+# Logs
+*.log
