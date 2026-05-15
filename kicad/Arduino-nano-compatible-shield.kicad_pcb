@@ -7224,6 +7224,17 @@
 			(uuid "7cbd73ba-b813-4ddd-b576-5c85155ded7c")
 		)
 		(embedded_fonts no)
+		(model "D:/Downlods/282837-2--3DModel-STEP-269445.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
+			)
+		)
 	)
 	(footprint "282837-2:TE_282837-2"
 		(layer "F.Cu")
@@ -7243,6 +7254,7 @@
 		(property "Value" "Screw_Terminal_01x02"
 			(at -3.29 -5 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "c53edeaf-2e18-4dc7-8557-49dffbb4b1f8")
 			(effects
 				(font
@@ -7466,6 +7478,17 @@
 			(uuid "c95410aa-88e5-48fd-84d2-93c05bf32ecd")
 		)
 		(embedded_fonts no)
+		(model "D:/Downlods/282837-2--3DModel-STEP-269445.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
+			)
+		)
 	)
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
 		(layer "F.Cu")
@@ -7863,6 +7886,17 @@
 			(uuid "eaed8780-0394-4a8f-bc36-92e92c8edd1d")
 		)
 		(embedded_fonts no)
+		(model "D:/Downlods/282837-2--3DModel-STEP-269445.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
+			)
+		)
 	)
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 		(layer "F.Cu")
@@ -8831,7 +8865,18 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
+			)
+		)
+		(model "D:/Downlods/ARDUINO NANO 3.0--3DModel-STEP-418109.STEP"
+			(offset
+				(xyz 7.7 -17.759 3)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
 			)
 		)
 	)

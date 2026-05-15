@@ -1,6 +1,7 @@
 # Arduino Nano Compatible Shield
 
 ## overview:
+![zine](zine/zine.png)
 This project is a custom Arduino Nano compatible robotics shield designed to simplify building a 2WD robot car with integrations of many sensors such as ir sensor, ultrasonic, mpu6050 and communication device as bluetooth       
 The ultimate goal is to eliminate all those messy wirings , and solderings that we do while making simple 2wd cars packed with features in affordable range.    
 
@@ -50,6 +51,14 @@ led|1|for the status| https://quartzcomponents.com/products/red-5mm-led| rs 2
 100 nf ceramic| 6| for decoupling | https://quartzcomponents.com/products/10000-pf-0-1uf-ceramic-capacitor?variant=31898110197895&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic?utm_source=google&utm_medium=FreeListings| rs 5
 470 uF electrolytic| 2| for safety| https://quartzcomponents.com/products/470-%C2%B5f-25v-radial-electrolytic-capacitor-through-hole?variant=45660873916650&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic?utm_source=google&utm_medium=FreeListings| rs 5
 
+# Assembly overview:
+1. get all the parts listed in the BOMs including the chasis, pcb, modules etc.
+2. solder them
+3. now, start assembling the chasis using this guide:   
+![guide](guide.png)
+4. now, stick a servo on the front side above the castor wheel and put the ultrasonic mounting bracket on top of it and screw them.
+5. now flash the code in `firmware/main.ino`
+6. enjoy
 ## cart: 
 ![image](cart/robu.png)
 ![image](cart/quartz.png)
